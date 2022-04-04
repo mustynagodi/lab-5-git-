@@ -7,3 +7,4 @@ tired
 new branch
 tired x2
 repeat
+last in branch1
